@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://bluermassage.com/</title>
+  <link>http://bluermassage.com/</link>
+
+<item>
+     <link>http://bluermassage.com/</link>
+     <title>Perfect Massage</title>
+     <description>Team Kristen and Shawnda, Blue Ridge Massage and Bodywork: Perfect Massage in Central Virginia</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/index.html</link>
+     <title>Perfect Massage</title>
+     <description>Team Kristen and Shawnda, Blue Ridge Massage and Bodywork: Perfect Massage in Central Virginia</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/about-us.html</link>
+     <title>BR Massage &amp; Bodywork: About Us</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: bios and massage philosophies</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/testimonials.html</link>
+     <title>BR Massage &amp; Bodywork: Testimonials</title>
+     <description>Team Kristen and Shawnda, Blue Ridge Massage and Bodywork: Real Client Testimonials</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/contact.html</link>
+     <title>Blue Ridge Massage &amp;amp; Bodywork</title>
+     <description>Check out the best massage salon in Charlottesville! Kristen
+  and Shawnda, top masseuses (that's French for you ;8-)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

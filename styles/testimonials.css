@@ -668,7 +668,7 @@ a {
 
 .page-section--testimonials {
   background-color: #e0e6ef;
-  background:url('../images/massage-therapy-1584711_1920.jpg');
+  background:url('../images/massage-therapy-1584711_755.jpg');
   background-size: cover;
 }
 
@@ -1468,4 +1468,11 @@ a {
           transform-origin: 100% 0;
 }
 
-
+html {
+	  font-family: "Roboto", sans-serif;
+	  /* font-family: sans-serif; */
+	  font-size: 17px;
+	  line-height: 1.25; /* 2 */
+      -ms-text-size-adjust: 100%; /* 3 */
+      -webkit-text-size-adjust: 100%; /* 3 */  	  
+  }
