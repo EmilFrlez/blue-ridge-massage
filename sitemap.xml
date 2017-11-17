@@ -8,17 +8,77 @@
 
 <url>
   <loc>http://bluermassage.com/</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://bluermassage.com/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://bluermassage.com/about-us.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/massages.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/resources.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://bluermassage.com/testimonials.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://bluermassage.com/contact.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/br-massage/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/books/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/videos/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/chairs-tables/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/oils-creams/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/music/index.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/privacy-policy.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bluermassage.com/affiliate-disclosure.html</loc>
+  <lastmod>2017-11-17T18:22:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 </urlset>

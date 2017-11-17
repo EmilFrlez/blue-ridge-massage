@@ -6,7 +6,7 @@
 
 <item>
      <link>http://bluermassage.com/</link>
-     <title>Perfect Massage</title>
+     <title>Blue Ridge Massage &amp; Bodywork: Perfect Massage</title>
      <description>Team Kristen and Shawnda, Blue Ridge Massage and Bodywork: Perfect Massage in Central Virginia</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
@@ -14,7 +14,7 @@
 </item>
 <item>
      <link>http://bluermassage.com/index.html</link>
-     <title>Perfect Massage</title>
+     <title>Blue Ridge Massage &amp; Bodywork: Perfect Massage</title>
      <description>Team Kristen and Shawnda, Blue Ridge Massage and Bodywork: Perfect Massage in Central Virginia</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
@@ -23,6 +23,22 @@
 <item>
      <link>http://bluermassage.com/about-us.html</link>
      <title>BR Massage &amp; Bodywork: About Us</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: bios and massage philosophies</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/massages.html</link>
+     <title>BR Massage &amp; Bodywork: Massages Offered</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: bios and massage philosophies</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/resources.html</link>
+     <title>BR Massage &amp; Bodywork: Resources</title>
      <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: bios and massage philosophies</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
@@ -38,11 +54,75 @@
 </item>
 <item>
      <link>http://bluermassage.com/contact.html</link>
-     <title>Blue Ridge Massage &amp;amp; Bodywork</title>
+     <title>Blue Ridge Massage &amp;amp; Bodywork: Contact</title>
      <description>Check out the best massage salon in Charlottesville! Kristen
   and Shawnda, top masseuses (that's French for you ;8-)</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/br-massage/index.html</link>
+     <title>BR Massage &amp; Bodywork: Book Resources</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: our merchandise</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/books/index.html</link>
+     <title>BR Massage &amp; Bodywork: Book Resources</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: recommended massage books</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/videos/index.html</link>
+     <title>BR Massage &amp; Bodywork: Video Resources</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: recommended videos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/chairs-tables/index.html</link>
+     <title>BR Massage &amp; Bodywork: Chairs and Tables</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: recommended massage chairs and tables</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/oils-creams/index.html</link>
+     <title>BR Massage &amp; Bodywork: Oils and Creams</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: recommended oils and creams</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/music/index.html</link>
+     <title>BR Massage &amp; Bodywork: Music Resources</title>
+     <description>Team Kristen and Shawnda from Blue Ridge Massage and Bodywork: recommended massage music</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/privacy-policy.html</link>
+     <title>Privacy Policy</title>
+     <description>Privacy Policy</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bluermassage.com/affiliate-disclosure.html</link>
+     <title>FTC Affiliate Disclosure</title>
+     <description>FTC Affiliate Disclosure</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>
